@@ -12,21 +12,21 @@ products = [
         "price": "45,000원",
         "img": "image_01.jpg",  # 깃허브에 올린 사진 파일 이름
         "desc": "상태 S급! 보자마자 소리 질렀던 그 니트예요. 핏이 진짜 예술...",
-        "link": "https://toss.me/..." # 토스 구매 링크
+        "link": "https://buy.tosspayments.com/shops/prOHBmMjDLT4" # 토스 구매 링크
     },
     {
         "name": "[버버리] 90s 트렌치 코트",
         "price": "120,000원",
         "img": "image_02.jpg",
         "desc": "단추 하나가 없어서 저렴하게 내놔요! 하지만 분위기 깡패...",
-        "link": "https://toss.me/..."
+        "link": "https://buy.tosspayments.com/shops/prOHBmMjDLT4"
     },
     {
         "name": "[나이키] 올드스쿨 바람막이",
         "price": "38,000원",
         "img": "image_03.jpg",
         "desc": "색감이 미쳤어요. 쿨톤 언니들 무조건 가져가세요!",
-        "link": "https://toss.me/..."
+        "link": "https://buy.tosspayments.com/shops/prOHBmMjDLT4"
     },
     # ... 이런 식으로 15개까지 계속 복사해서 추가하면 돼! ...
 ]
