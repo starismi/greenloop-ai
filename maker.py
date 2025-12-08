@@ -5,7 +5,7 @@ from io import BytesIO
 
 # ==========================================
 # [설정] 여기에 아까 복사한 n8n Webhook URL을 붙여넣으세요! (기존 주소 그대로 쓰면 돼!)
-N8N_WEBHOOK_URL = "https://sungmi.app.n8n.cloud/webhook/vintage-detail-maker"
+N8N_WEBHOOK_URL = "https://n8n-production-cbde.up.railway.app/webhook/vintage-detail-maker"
 # ==========================================
 
 # 페이지 기본 설정
@@ -88,4 +88,5 @@ if submitted:
 
 # 하단 푸터
 st.markdown("---")
+
 st.caption("ⓒ Greenloop Vintage AI Editor. Created for top sellers.")
